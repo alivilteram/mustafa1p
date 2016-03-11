@@ -59,7 +59,7 @@ local function run(msg, matches)
   --[[if is_chat_msg(msg) then
       --return 'Only works on private message!'
   end]]
-  if matches[1] == 'صنع كروب' and matches[2] then
+  if matches[1] == 'csuper' and matches[2] then
       if is_admin(msg) then
           local group_name = matches[2]
           local group_creator = msg.from.print_name
@@ -85,7 +85,7 @@ return {
   	"!cgpsuper <group_name> : Create a new moderation group",
   },
   patterns = {
-    "^/(صنع كروب) (.*)$",
+    "^/(csuper) (.*)$",
   }, 
   run = run,
   hidden = true,
