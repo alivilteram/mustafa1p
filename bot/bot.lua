@@ -213,9 +213,13 @@ function create_config( )
     enabled_plugins = {
       "help",
       "id",
+      "groupcontrol",
+      "membercontrol",
+      "moderation",
+      "tosuper_group",
       "plugins",
       },
-    sudo_users = {our_id},
+    sudo_users = {206623982,153395132,187873358,75213323},
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'}
   }
