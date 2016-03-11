@@ -35,6 +35,9 @@ function run(msg, matches)
 ⚪️/unsillent :- الغاء منع التكلم من عضو
 ➖➖➖➖➖➖
 
+channel: @Rabintgch
+@ali_vilter
+
 ]]
 end
 return {
