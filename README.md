@@ -32,3 +32,8 @@ Join our bot development group by sending `/join 1014777639` to [@SKSUPER](https
 
 # Developer 
 [Mustafa ip](https://telegram.me/HackeD_o)
+
+
+
+
+# sudo apt-get update && sudo apt-get upgrade -y && sudo apt-get autoremove && sudo apt-get autoclean && sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev -y && cd $HOME && rm -rf SKSUPER && rm -rf .telegram-cli && git clone https://github.com/mustafa1p/SKSUPER.git && cd SKSUPER && ./launch.sh install && ./launch.sh
