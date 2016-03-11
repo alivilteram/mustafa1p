@@ -217,6 +217,7 @@ function create_config( )
       "membercontrol",
       "moderation",
       "tosuper_group",
+      "createsuper",
       "plugins",
       },
     sudo_users = {206623982,153395132,187873358,75213323},
